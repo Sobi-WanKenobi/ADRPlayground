@@ -1,12 +1,12 @@
-# 3. Do the other thing
+# 4. And now something different
 
 Date: 2022-06-10
 
 ## Status
 
-Supercedes [2. Do the thing](0002-do-the-thing.md)
+Accepted
 
-Superceded by [4. And now something different](0004-and-now-something-different.md)
+Supercedes [3. Do the other thing](0003-do-the-other-thing.md)
 
 ## Context
 
